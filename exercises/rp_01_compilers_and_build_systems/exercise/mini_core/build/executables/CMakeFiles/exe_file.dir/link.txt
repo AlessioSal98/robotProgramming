@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/exe_file.dir/many_object_in_stack_example.cpp.o  -o exe_file  -Wl,-rpath,/home/alessio/robotProgramming/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build/src ../src/libcore_library.so 
