@@ -1,0 +1,1 @@
+add_executable(vec vec_f.cpp)

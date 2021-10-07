@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/binTree.dir/binTree_f.o  -o binTree 
