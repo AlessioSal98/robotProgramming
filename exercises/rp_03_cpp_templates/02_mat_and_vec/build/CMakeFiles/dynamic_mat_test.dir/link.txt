@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/dynamic_mat_test.dir/dynamic_mat_test.cpp.o  -o dynamic_mat_test  liblinalg_library.a 

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_03_cpp_templates/02_mat_and_vec/static_mat.h
+static_vec.h
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_03_cpp_templates/02_mat_and_vec/static_vec.h
+iostream
+-
+
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_03_cpp_templates/02_mat_and_vec/static_mat_test.cpp
+iostream
+-
+static_mat.h
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_03_cpp_templates/02_mat_and_vec/static_mat.h
+unistd.h
+-
+
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_03_cpp_templates/02_mat_and_vec/static_vec.h
+iostream
+-
+
