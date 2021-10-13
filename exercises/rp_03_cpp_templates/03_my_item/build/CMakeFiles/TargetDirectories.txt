@@ -1,0 +1,4 @@
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_03_cpp_templates/03_my_item/build/CMakeFiles/rebuild_cache.dir
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_03_cpp_templates/03_my_item/build/CMakeFiles/edit_cache.dir
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_03_cpp_templates/03_my_item/build/CMakeFiles/my_library.dir
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_03_cpp_templates/03_my_item/build/CMakeFiles/my_item_test.dir
