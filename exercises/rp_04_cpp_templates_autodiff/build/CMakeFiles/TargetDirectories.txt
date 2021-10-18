@@ -1,0 +1,3 @@
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_04_cpp_templates_autodiff/build/CMakeFiles/rebuild_cache.dir
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_04_cpp_templates_autodiff/build/CMakeFiles/edit_cache.dir
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_04_cpp_templates_autodiff/build/CMakeFiles/ad_test.dir
