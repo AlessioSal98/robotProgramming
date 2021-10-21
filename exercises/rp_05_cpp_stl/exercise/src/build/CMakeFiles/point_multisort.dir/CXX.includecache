@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../02_mat_and_vec/static_vec.h
+iostream
+-
+
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_05_cpp_stl/exercise/src/point_multisort.cpp
+point_with_index.h
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_05_cpp_stl/exercise/src/point_with_index.h
+vector
+-
+fstream
+-
+algorithm
+-
+cassert
+-
+
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_05_cpp_stl/exercise/src/point_with_index.h
+static_vec.h
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_05_cpp_stl/exercise/src/static_vec.h
+iostream
+-
+
