@@ -1,0 +1,5 @@
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_06_eigen_templates/exercise/build/CMakeFiles/edit_cache.dir
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_06_eigen_templates/exercise/build/CMakeFiles/rebuild_cache.dir
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_06_eigen_templates/exercise/build/CMakeFiles/eigen_covariance_test.dir
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_06_eigen_templates/exercise/build/CMakeFiles/eigen_transform_sort.dir
+/home/alessio/robotProgramming/robotProgramming/exercises/rp_06_eigen_templates/exercise/build/CMakeFiles/eigen_predicate.dir
